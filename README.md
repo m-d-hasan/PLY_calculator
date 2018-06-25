@@ -3,6 +3,7 @@
 This is a calculator that can evaluate simple expression and store variables and use variables in its expressions. This is implemented in Python using the PLY lexer and parser generator library.
 
 For Run this you have to install PLY by this command
+
 pip install ply
 
 or download from here:
