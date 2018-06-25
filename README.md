@@ -15,7 +15,8 @@ python setup.py install
 or python3
 python3 setup.py install
 
-#What is the LEX and YACC ?
+# What is the LEX and YACC ?
+
 Lex is a lexer generator and what lex does is it tokenize a string which is essentially looking at every character in the string and figuaring out what is it
 yacc is a parser generator
 
